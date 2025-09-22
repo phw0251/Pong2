@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d806dcd-3c3c-4001-b772-bc807251fd68" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Edior.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Edior/EnemyControllerEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Edior/EnemyControllerEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStateAttack.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStateAttack.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStateDead.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStateDead.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStateHit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStateHit.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStateIdle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStateIdle.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStatePatrol.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStatePatrol.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStateTrace.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3d-game-sample/Assets/Scripts/Enemy/EnemyState/EnemyStateTrace.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/IObservable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/IObservable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/IObserver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/IObserver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/IPlayerStates.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/IPlayerStates.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateAttack1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateAttack1.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateCombat.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateCombat.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateDead.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateDead.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateDodge.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateDodge.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateIdle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateIdle.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateJump.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateJump.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateMove.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateMove.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateStaggered.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateStaggered.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateStunned.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/PlayerStates/PlayerStateStunned.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/Stat.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YeahHereComeTheLootster/Assets/Scripts/Stat.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/Assets/Scripts/Game/Block.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/Assets/Scripts/Game/Block.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutoriallllll/Assets/Scripts/Bullet.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutoriallllll/Assets/Scripts/Bullet.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutoriallllll/Assets/Scripts/Goblin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutoriallllll/Assets/Scripts/Goblin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutoriallllll/Assets/Scripts/Orc.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutoriallllll/Assets/Scripts/Orc.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz-game/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz-game/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ai.generators@49eb4eaccb48/Modules/Unity.AI.Animate/Windows/AnimateGeneratorInspectorButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.netcode.gameobjects@837011a5fcd5/Runtime/Core/NetworkManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@423bc642aff1/Runtime/UGUI/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3789ee403a53437cbb6b5d9ab6311f51573620/ac/38c69c65/Boolean.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="31Bw6S3MH75LvsnrJiDzzdbh8XN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Unity 에디터에 연결.Unity 에디터에 연결">
+    <configuration name="유닛 테스트(배치 모드)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Unity\Unity Hub\Editor\6000.2.0f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;C:\Unity\Unity projects\Pong&quot; -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Unity\Unity projects\Pong" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="독립실행형 플레이어" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/pong\Pong.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\phw02\Desktop\pong" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unity 시작" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Unity\Unity Hub\Editor\6000.2.0f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;C:\Unity\Unity projects\Pong&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Unity\Unity projects\Pong" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unity 에디터에 연결" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unreal 에디터에 연결 후 재생" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="4d806dcd-3c3c-4001-b772-bc807251fd68" name="변경" comment="" />
+      <created>1755010598811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755010598811</updated>
+      <workItem from="1755010600100" duration="155000" />
+      <workItem from="1755081276974" duration="11223000" />
+      <workItem from="1755184889508" duration="5147000" />
+      <workItem from="1755192605922" duration="7000" />
+      <workItem from="1755355414055" duration="673000" />
+      <workItem from="1755482335329" duration="813000" />
+      <workItem from="1755483162234" duration="382000" />
+      <workItem from="1755483832143" duration="1429000" />
+      <workItem from="1755495169816" duration="10000" />
+      <workItem from="1755495192491" duration="3028000" />
+      <workItem from="1755507267827" duration="1368000" />
+      <workItem from="1755508834328" duration="6035000" />
+      <workItem from="1755515129097" duration="981000" />
+      <workItem from="1755616512900" duration="1744000" />
+      <workItem from="1756123927428" duration="1857000" />
+      <workItem from="1758290170053" duration="166000" />
+      <workItem from="1758290352257" duration="11000" />
+      <workItem from="1758290371567" duration="2000" />
+      <workItem from="1758290383844" duration="8000" />
+      <workItem from="1758290399453" duration="1075000" />
+      <workItem from="1758291646918" duration="5261000" />
+      <workItem from="1758347632196" duration="1031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
